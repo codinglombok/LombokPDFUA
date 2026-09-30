@@ -1,0 +1,15 @@
+{
+  "name": "lombokpdfua",
+  "version": "0.1.0",
+  "description": "PDF/UA accessibility compliance (ISO 14289) — part of Lombok Ecosystem",
+  "main": "typescript/pdfua.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codinglombok/LombokPDFUA.git"
+  },
+  "keywords": ["pdf", "pdfua", "accessibility", "wcag", "iso-14289", "lombok"],
+  "author": "codinglombok",
+  "license": "Apache-2.0",
+  "bugs": { "url": "https://github.com/codinglombok/LombokPDFUA/issues" },
+  "homepage": "https://github.com/codinglombok/LombokPDFUA#readme"
+}
